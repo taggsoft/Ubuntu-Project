@@ -25,3 +25,11 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 secret.txt
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.coverage
+.coverage.*
